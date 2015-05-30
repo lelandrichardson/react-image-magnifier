@@ -73,3 +73,12 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+# Webstorm
+
+.idea
+.idea/vcs.xml
+.idea/modules.xml
+.idea/react-image-magnifier.iml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
